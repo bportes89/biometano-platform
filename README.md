@@ -1,4 +1,5 @@
 Projeto de Biometano com Integração Blockchain
+
 Este projeto é uma aplicação web que busca dados reais de biometano, permite o cadastro de usuários e integra-se à blockchain Ethereum para transações e armazenamento de dados. O design foi aprimorado com Tailwind CSS, e a aplicação utiliza tecnologias modernas para garantir escalabilidade e segurança.
 
 Funcionalidades
